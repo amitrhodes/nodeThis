@@ -3,5 +3,6 @@
  */
 module.exports = {
     one: require('./1'),
-    two: require('./2')
+    two: require('./2'),
+    three: require('./3')
 };

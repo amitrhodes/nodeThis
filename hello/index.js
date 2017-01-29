@@ -17,3 +17,4 @@ console.log('a');
 group.one();
 console.log('b');
 group.two();
+group.three();
